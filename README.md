@@ -1,4 +1,5 @@
 #Description
+
 This project is a Data Analysis Dashboard designed to visualize and analyze data on data state, performance metrics, and real-time data loads. It features interactive charts, data summaries, and a table to present information clearly and effectively.
 
 #Features
