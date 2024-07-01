@@ -19,8 +19,8 @@ body {
 
 header {
     display: flex;
-    flex-direction: column; /* Cambia la dirección del diseño a columna */
-    align-items: flex-start; /* Alinea los elementos al inicio */
+    flex-direction: column; 
+    align-items: flex-start;
     margin-bottom: 20px;
 }
 
@@ -358,11 +358,11 @@ button.apply.active {
 
     .chart-container {
         width: 100%;
-        height: 300px; /* Tamaño del gráfico restaurado */
+        height: 300px; 
     }
 
     #status-chart {
-        height: 300px; /* Tamaño del gráfico restaurado */
+        height: 300px;
     }
 }
 
