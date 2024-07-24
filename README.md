@@ -10,7 +10,7 @@ This project is a Data Analysis Dashboard designed to visualize and analyze data
 
 #Interactivity: "Apply" button to apply filters and change the button color to yellow on click.
 
-#Technologies Used
+#Technologies Used.
 HTML5: Content structure.
 CSS3: Page styling.
 JavaScript: Interactive functionality.
