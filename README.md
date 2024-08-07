@@ -14,7 +14,7 @@ This project is a Data Analysis Dashboard designed to visualize and analyze data
 HTML5: Content structure.
 CSS3: Page styling.
 JavaScript: Interactive functionality.
-Chart.js: Charting library (make sure to include the CDN in your project).
+Chart.js: Charting library (make sure to include the CDN in your project)
 
 # Instalation
 
